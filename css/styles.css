@@ -1,0 +1,51 @@
+body {
+    background-color: blue;
+}
+header {
+    background-color: rgb(66, 66, 66);
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+
+nav {
+    background-color: rgb(66,66,66);
+    text-align: center;
+    padding: 15px;
+    
+}
+
+.container {
+    background-color: rgb(169, 169, 169);
+    min-height: 1000px;
+    min-width: 1000px;
+    margin: auto;
+}
+
+.col-right {
+    background-color: black;
+    color: antiquewhite;
+    min-height: 500px;
+    min-width: 400px;
+    font-size: 20px;
+}
+
+.col-left {
+    background-color: antiquewhite;
+    color: black;
+    min-height: 500px;
+    min-width: 400px;
+    font-size: 20px;
+
+}
+
+.wrapper {
+    display: inline-block;
+}
+
+footer {
+    background-color: rgb(10, 10, 10);
+    color: antiquewhite;
+    font-size: 32px;
+    text-align: center;
+}
